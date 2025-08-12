@@ -1,0 +1,4 @@
+region,capex_usd_billion,notes
+US,315,"Projected 2025 AI/data-center CapEx across major US hyperscalers (Amazon, Microsoft, Alphabet, Meta)."
+Europe,21,EU-level proposal for AI 'gigafactory' funding (converted from EUR to USD).
+China,7,"Baidu, Alibaba, Tencent combined AI chips/DC investments reported for H1 2024; used as a conservative baseline."
